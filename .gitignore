@@ -11,3 +11,7 @@
 *.lai
 *.la
 *.a
+
+# Compile target directories
+Debug/*
+Release/*
